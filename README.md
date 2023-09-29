@@ -1,16 +1,20 @@
-### Hi there 👋
+**Hi there** 👋
 
-<!--
-**jpmmcneill/jpmmcneill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James (he/him), from Dublin in Ireland. I studied Theoretical Physics in Trinity College Dublin. I am interested in Applied Math and Game theory - particularly in relation to Ecology. I'd love to do a PhD in this area at some point.
 
-Here are some ideas to get you started:
+I have worked at:
+- [CRH](https://crh.com/), Mostly Investor relations
+- [Conjura](https://conjura.com/), Analytics, Product Lead & Engineering Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There are some open source items that I have worked / am working on:
+- A Universal Semantic Layer (still private, slow WIP with a friend of mine)
+- DBT (I've used it a lot, have a love/hate relationship with it, am a package maintainer, and have been invovled with the duckdb adapter)
+- PuffinDB (mostly giving product guidance)
+- Pypulation, a python library for population dynamics (it's too really useful right now)
+
+And a few ideas I have for the future:
+- UnhingedDB, a SQL supporting data lake powered by single table design on dynamoDB (not designed to be useful)
+- Opinionated SQL linter for building
+- DuckDB extension for FMRI data
+
+Get in touch with my [linkedin](https://www.linkedin.com/in/james-mcneill-63a85014a/) or email (jpmmcneill AT gmail.com)
