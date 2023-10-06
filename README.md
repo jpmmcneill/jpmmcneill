@@ -14,7 +14,7 @@ There are some open source items that I have worked / am working on:
 
 And a few ideas I have for the future:
 - UnhingedDB, a SQL supporting data lake powered by single table design on dynamoDB (not designed to be useful)
-- Opinionated SQL linter for building
+- Opinionated SQL linter for building sensible sql pipelines
 - DuckDB extension for FMRI data
 
 Get in touch with my [linkedin](https://www.linkedin.com/in/james-mcneill-63a85014a/) or email (jpmmcneill AT gmail.com)
