@@ -10,10 +10,10 @@ There are some open source items that I have worked / am working on:
 - A Universal Semantic Layer (still private, slow WIP with a friend of mine)
 - DBT (I've used it a lot, have a love/hate relationship with it, am a package maintainer, and have been invovled with the duckdb adapter)
 - PuffinDB (mostly giving product guidance)
-- Pypulation, a python library for population dynamics (it's too really useful right now)
+- Pypulation, a python library for population dynamics (it's too basic to be useful right now)
 
 And a few ideas I have for the future:
-- UnhingedDB, a SQL supporting data lake powered by single table design on dynamoDB (not designed to be useful)
+- A SQL supporting data lake powered by single table design on dynamoDB (not designed to be useful)
 - Opinionated SQL linter for building sensible sql pipelines
 - DuckDB extension for FMRI data
 
