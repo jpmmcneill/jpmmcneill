@@ -2,7 +2,7 @@
 
 I'm James (he/him), from Dublin in Ireland. I studied Theoretical Physics in Trinity College Dublin. I am interested in Applied Math and Game theory - particularly in relation to Ecology. I'd love to do a PhD in this area at some point, if the stars align 😄.
 
-I currently work in Quant Research department for a trading company.
+I currently work in a Quant Research department for a trading company.
 
 I have worked at:
 - [CRH](https://crh.com/), Mostly Investor relations
